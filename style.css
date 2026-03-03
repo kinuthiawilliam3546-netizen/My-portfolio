@@ -87,7 +87,7 @@ nav ul li a:hover::after{
 }
 .about-col-2 p .highlight{
     color: #b54545;
-    font-weight: 600;
+    font-weight: 600; 
 }
 .tab-titles{
     display: flex;
