@@ -78,9 +78,9 @@ nav ul li a:hover::after{
     flex-basis: 60%; 
 }
 .sub-title{
-    font-size: 60px;
+    font-size: 100px;
     margin-right: 40px;
-    font-weight: 600;
+    font-weight: 800;
     color: #ffffff;
 }
 .tab-titles{
